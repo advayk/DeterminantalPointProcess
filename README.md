@@ -5,4 +5,4 @@ The focus of this senior thesis will be Determinantal Point Processes (DPPs), en
 
 We will also provide a brief introduction into the Charlier ensemble DPP. There has been no formal verification of computer simulations of checking to see if the sampling from the kernel of these two processes results in similar results as empirical implementations. Lastly, I will explore the applications of DPPs, particularly within the realm of machine learning, a domain that has recently attracted increased attention.
 
-I gave a talk to the Cornell Univeristy club. Here is the [link](https://www.youtube.com/watch?v=0TPuFlwCa44). 
+I gave a talk to the Cornell Univeristy Math Club. Here is the [link](https://www.youtube.com/watch?v=0TPuFlwCa44). 
